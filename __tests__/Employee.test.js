@@ -1,9 +1,9 @@
 const Employee = require('../lib/Employee.js');
 
 test('employee', () => {
-    const employee = new Employee('');
+    const employee = new Employee('employee');
 
-    expect(employee.name).toBe('');
+    expect(employee.name).toEqual(expect.any(String));
     expect(employee.id).toEqual(expect.any(Number));
-    expect(employee.email).toBe('email@email.com');
+    expect(employee.email).toEqual(expect.any(String));
 });
