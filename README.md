@@ -13,7 +13,7 @@ To create an HTML page that shows team profiles based on their roles. Used TDD t
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Video] (#Video Link to Watch App Being Used)
+* [Video] (#video)
 * [Questions](#questions)
 
 ## Installation 
