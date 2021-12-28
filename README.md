@@ -32,7 +32,8 @@ Contributors are welcome. Please send a request.
 Run `npm test` to run Jest to test your files.
 
 ## Video 
-insert screencastify video link
+Please visit the following link to view the video of the app being used:
+https://watch.screencastify.com/v/B8htu8Wr3xt4DLqMsHvM
 
 ## Questions
 Please direct questions to Brian Done at briguy2078@gmail.com.
